@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763580054011",
+    "project_id": "casiion",
+    "storage_bucket": "casiion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763580054011:android:bde99300a29a1d3632735e",
+        "android_client_info": {
+          "package_name": "com.example.cassion23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEg0WFI5-lsIcog6bnsE-J6KxhrRiB-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
